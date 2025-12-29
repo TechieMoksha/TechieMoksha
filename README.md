@@ -10,7 +10,7 @@
 ## 👩‍💻 About Me
 - 🎓 B.Tech in Data Science (CGPA: 8.68)  
 - 📊 Aspiring **Data Analyst / Data Science Intern**  
-- 🧠 Strong foundation in **Python, SQL, Power BI, Tableau**  
+- 🧠 Skilled in **Python, SQL, Power BI, Tableau**  
 - 🔍 Hands-on experience in **EDA, ML models & dashboards**  
 - 📍 Pune, India  
 
@@ -32,13 +32,20 @@
 ---
 
 ## 🛠 Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,mysql,r,c,cpp,pandas,numpy,sklearn,matplotlib,excel,powerbi,tableau,git,github,jupyter,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,sql,mysql,r,c,cpp,pandas,numpy,sklearn,matplotlib,excel,git,github,jupyter,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TechieMoksha&show_icons=true&theme=dark" />
 </p>
@@ -54,44 +61,40 @@
 ### 🔹 Employee Retention Insights Through Data-Driven HR Analysis
 - Logistic Regression model with **85% accuracy**
 - Analyzed **10,000+ employee records**
-- Identified key **attrition & retention drivers**
 - Built **Power BI dashboards** for HR KPIs  
-🔗 Repo: https://github.com/TechieMoksha/Employee-Retention-Insights-through-Data-Driven-HR-Analysis
+🔗 https://github.com/TechieMoksha/Employee-Retention-Insights-through-Data-Driven-HR-Analysis
 
 ---
 
 ### 🔹 AI-Based Restaurant Menu Price Optimization System
 - ML-based price recommendation system
-- Used **sales data, ratings & competitor analysis**
-- Explainable AI insights for profitability decisions  
-🔗 Repo: https://github.com/TechieMoksha/AI-Based-Restaurant-Menu-Price-Optimizer
+- Explainable AI insights for pricing decisions  
+🔗 https://github.com/TechieMoksha/AI-Based-Restaurant-Menu-Price-Optimizer
 
 ---
 
 ### 🔹 Financial Analysis Dashboard
-- Power BI dashboard for **sales, profit & regional trends**
-- KPI tracking & actionable business insights  
-🔗 Repo: https://github.com/TechieMoksha/Financial_Analysis
+- KPI-based analysis of sales & profit  
+🔗 https://github.com/TechieMoksha/Financial_Analysis
 
 ---
 
 ### 🔹 Patient No-Show Analysis
-- Data-driven insights to reduce hospital no-show rates
-- Visualization & EDA using Python  
+- Hospital appointment attendance analysis
+- Python-based EDA & visualization  
 
 ---
 
 ### 🔹 Breast Cancer Prediction
-- ML model to classify **benign vs malignant tumors**
-- Data preprocessing, training & evaluation  
+- ML model to classify benign vs malignant tumors  
 
 ---
 
-## 🏆 Achievements
+## 🏆 Certifications & Achievements
 - IBM **Data Analyst Professional Certificate**
 - Power BI Certification – Be10x
 - Python & SQL Certifications – HackerRank
-- Participant in **IIT Mumbai Symposium**
+- Participant – **IIT Mumbai Symposium**
 
 ---
 
